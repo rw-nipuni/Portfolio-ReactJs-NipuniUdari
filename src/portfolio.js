@@ -284,7 +284,7 @@ const bigProjects = {
     {
       image: require("./assets/images/j1.png"),
       projectName: "Coffee table book",
-      projectDesc: "This coffee table book is a must-have for anyone who loves horror.Flyers,Posters,Coffee table book,logos,digital Arts,Presentations using photoshop & Illustrator.",
+      projectDesc: "This coffee table book is a must-have for anyone who loves horror .I have included so many interesting characters.logos are designed using illustrator except them totaly book is designed using photoshop.",
       
       footerLink: [
         {
@@ -364,7 +364,7 @@ const bigProjects = {
     {
       image: require("./assets/images/j1.png"),
       projectName: "Graphic designs",
-      projectDesc: "This coffee table book is a must-have for anyone who loves horror.Flyers,Posters,Coffee table book,logos,digital Arts,Presentations using photoshop & Illustrator.",
+      projectDesc: "Flyers,Posters,Coffee table book,logos,digital Arts,Presentations using photoshop & Illustrator.",
       
       footerLink: [
         {
