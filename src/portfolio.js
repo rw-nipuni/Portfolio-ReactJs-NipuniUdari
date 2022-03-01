@@ -362,7 +362,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/j1.png"),
+      image: require("./assets/images/jv flyer -2.jpg"),
       projectName: "Graphic designs",
       projectDesc: "Flyers,Posters,Coffee table book,logos,digital Arts,Presentations using photoshop & Illustrator.",
       
