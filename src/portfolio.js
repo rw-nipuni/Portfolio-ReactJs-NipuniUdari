@@ -18,7 +18,7 @@ const greeting = {
     " I'm all about combining visual design with product thinking to bring meaningful experiences alive who's passionate about creating digital experiences through problem-solving. I fell in love with coding, exploring, travelling, Photography,Painting,designing."
   ),
   resumeLink:
-  "https://www.canva.com/design/DAEsTrPEOSU/KNNCHLSF8p00Z-CGUXgwTA/view?utm_content=DAEsTrPEOSU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", // Set to empty to hide the button
+  "https://drive.google.com/file/d/1FOhnh09oLcLgfuooNvBC3L_rht5APRYk/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
