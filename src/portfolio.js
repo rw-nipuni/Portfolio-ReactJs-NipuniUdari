@@ -50,31 +50,31 @@ const skillsSection = {
   subTitle: "Hello! I have a passion for exploring technical world.",
   skills: [
     emoji(
-      "⚡ Mobile App Ui Design"
+      "📌 Mobile App Ui Design"
     ),
     (" I’m passionate about pushing products to the next level through a design process visually stunning user-focused UI."),
     emoji(
-      "⚡ Website Development"
+      "📌 Website Development"
     ),
     (" I have a passion for front end web development and have experience in coding HTML,CSS,JAVA SCRIPT"),
     emoji(
-      "⚡ Graphic design"
+      "📌 Graphic design"
     ),
     (" I love graphic design and have experience in designing brands,logos,flyers,Book covers,Powerpoint presentations."),
     emoji(
-      "⚡ Mobile App Development"
+      "📌 Mobile App Development"
     ),
     ("  I design & develop highly engaging digital experiences for the mobile using react native . Be it in, Android"),
     emoji(
-      "⚡ Mobile App Ui Design"
+      "📌 Mobile App Ui Design"
     ),
     (" I’m passionate about pushing products to the next level through a design process visually stunning user-focused UI."),
     emoji(
-      "⚡ Video Editing"
+      "📌 Video Editing"
     ),
     ("  I have experience working on video projects for variety of purposes,and really enjoy working on video production!"),
     emoji(
-      "⚡ Software Development"
+      "📌 Software Development"
     ),
     ("   sometime I’m a software engineer specializing in building (and occasionally designing)exceptional digital experiences."),
     
@@ -94,10 +94,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
+    
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -110,10 +107,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
+    
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -122,10 +116,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
+    
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
@@ -134,10 +125,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+    
   ],
   display: true // Set false to hide this section, defaults to true
 };
