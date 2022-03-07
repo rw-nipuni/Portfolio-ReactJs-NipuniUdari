@@ -250,7 +250,7 @@ const workExperiences = {
       company: "SEDS J'Pura",
       companylogo: require("./assets/images/ab.png"),
       date: " February 2021 – Present",
-      desc: "(SEDS) is a non-profit that empowers young people to participate and make an impact in space exploration.As a web developer and graphic designer I participated in projects as well as to attend conferences, publish my works & become more effective in my present and future careers in industry, academia, government, and education. "
+      desc: "(SEDS) is a space exploration organization.As a web developer and graphic designer I participated in projects as well as to attend conferences, publish my works & become more effective in my present and future careers in industry, academia, government, and education. "
     }
   ]
 };
@@ -270,9 +270,9 @@ const bigProjects = {
   subtitle: "There are many kind of projects I have done so far.",
   projects: [
     {
-      image: require("./assets/images/j1.png"),
+      image: require("./assets/images/p1.png"),
       projectName: "Coffee table book",
-      projectDesc: "This coffee table book is a must-have for anyone who loves horror .I have included so many interesting characters.logos are designed using illustrator except them totaly book is designed using photoshop.",
+      projectDesc: "Coffee table books need lots of it, in the form of generous margins, space around images, and space between lines of type.This coffee table book is a must-have for anyone who loves horror .I have included so many interesting characters.logos are designed using illustrator. Totaly book is designed using photoshop.",
       
       footerLink: [
         {
@@ -283,9 +283,9 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/j2.png"),
+      image: require("./assets/images/p2.png"),
       projectName: "Hotel Website",
-      projectDesc: "I have designed Website for cinnoman lodge hotel.It contains Facilities,Gallery,contacts,services etc:And Html,css,Js are used for it",
+      projectDesc: "A good hotel website should have a clean design,be easy to navigate and include a lot of social proof. Have a look at this page . I have designed Website for cinnoman lodge hotel Habarana using Html, css, Js.It contains Facilities,Gallery,contacts,services, Feedbacks etc:It's easy to use and navigate between tabs.",
       footerLink: [
         {
           name: "Visit Website",
@@ -298,9 +298,9 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/j4.png"),
-      projectName: "Mobile Application development",
-      projectDesc: "I have delevopled full stack E commerce App using react native and backend developed using Google firebase",
+      image: require("./assets/images/p3.png"),
+      projectName: "Mobile Application",
+      projectDesc: "I have delevopled full stack E commerce App using react native and backend developed using Google firebase.Designers are responsible for the overall style of the app, including things like the colour scheme, font selection, and the types of buttons and widgets the user will use.So I conduct a survey for that",
       footerLink: [
         
         {
@@ -309,9 +309,9 @@ const bigProjects = {
         }
       ]
     },{
-      image: require("./assets/images/j3.png"),
+      image: require("./assets/images/p4.png"),
       projectName: "School Management System",
-      projectDesc: "The system would record student information, student enrollment, fees- collected. It cannot be altered or modified by other users (students, registrar, cashier & teachers) except for the administrator.It develops using Java",
+      projectDesc: "Main Purpose of School management system is to make the whole school Activities on System.It would record student information. It cannot be altered or modified by other users (students, registrar, & teachers) except for the administrator. It develops using Java.Backend developed using php myadmin database.",
       footerLink: [
         
         {
@@ -321,7 +321,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/j5.png"),
+      image: require("./assets/images/p5.png"),
       projectName: "Employee and Payroll management system",
       projectDesc: "This Software is designed to make the existing manual system automatic with the help of computerized equipment and full-edged computer software, fulfilling their requirements, so that their valuable data and information can be stored for a longer period with easy access and manipulation of the same using.",
       footerLink: [
@@ -334,8 +334,8 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/j6.png"),
-      projectName: "App UI Design",
-      projectDesc: "The first impressions are 94% design related.I designed a Mobile App using figma online tool.It contains Splash screens,Onboarding Screens,Login and profile screens,cart, Checkout screens and other E commerce screens.Accourding to the given feedbacks it is a user friendly UI",
+      projectName: "Mobile Application User Interface",
+      projectDesc: "The first impressions are 94% design related.I designed a Mobile App user interface using figma online tool.It contains Splash screens,Onboarding Screens,Login and profile screens,cart, Checkout screens and other E commerce screens.Accourding to the given feedbacks it is a user friendly UI and easy to use.",
       footerLink: [
         
         {
@@ -350,14 +350,27 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/jv flyer -2.jpg"),
+      image: require("./assets/images/p6.png"),
       projectName: "Graphic designs",
-      projectDesc: "Flyers,Posters,Coffee table book,logos,digital Arts,Presentations using photoshop & Illustrator.",
+      projectDesc: "Graphic designs combine these three elements to form a single, cohesive visual composition of ideas and messaging.I am working in a lots of clubs in the university.So I have to create Flyers,Posters,Coffee table book,logos,digital Arts,Presentations for variety of purposes.Usually I am using photoshop & Illustrator for my designs.",
       
       footerLink: [
         {
           name: "Visit Website",
           url: "https://www.behance.net/nipuniudari1"
+        },
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/p7.png"),
+      projectName: "Portfolio Website",
+      projectDesc: "A design portfolio is a showcase of professional skills, About, projects, Blogs, Experiences education,contact and knowledge. React js , Html, Css used for creating this.To resize images photoshop used and canva used to link my resume.So many social media links used for spreading more details of my self.So It contains all the basics that needed.",
+      
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/nipuni-udari/portfolio-nipuniUdari"
         },
         //  you can add extra buttons here.
       ]
