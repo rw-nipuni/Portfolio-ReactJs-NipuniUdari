@@ -15,7 +15,7 @@ const greeting = {
   username: "Nipuni Udari",
   title: "Hi there, I'm Nipuni Udari",
   subTitle: emoji(
-    " I'm all about combining visual design with product thinking to bring meaningful experiences alive who's passionate about creating digital experiences through problem-solving. I fell in love with coding, exploring, travelling, Photography,Painting"
+    " I'm all about combining visual design with product thinking to bring meaningful experiences alive who's passionate about creating digital experiences through problem-solving. I fell in love with coding, exploring, travelling, Photography,Painting,designing."
   ),
   resumeLink:
   "https://www.canva.com/design/DAEsTrPEOSU/KNNCHLSF8p00Z-CGUXgwTA/view?utm_content=DAEsTrPEOSU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", // Set to empty to hide the button
@@ -25,7 +25,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/nipuni-udari",
+  github: "https://github.com/rw-nipuni",
   linkedin: "https://www.linkedin.com/in/nipuni-udari-922062218/",
   gmail: "96770@fhss.sjp.ac.lk",
   instagram:"https://www.instagram.com/nipuni.udari/",
@@ -423,7 +423,7 @@ const achievementSection = {
    
 
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
