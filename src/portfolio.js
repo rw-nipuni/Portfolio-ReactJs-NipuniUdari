@@ -142,7 +142,7 @@ const educationInfo = {
       duration: "March 2020 - Present",
       desc: "",
       descBullets: [
-        "First year -: Statistics ,Media,Anthropology",
+        "In the First year I followed Statistics ,Media,Anthropology and ICT.Now I am following ICT BSC.Hons degree.I am working for a lots of clubs and I have completed so many projects in my university life.",
         
       ]
     },
@@ -152,7 +152,7 @@ const educationInfo = {
       subHeader: "NVQ Level 4 in Information Technology",
       duration: "January 2016- March 2017",
       
-      descBullets: ["Operating System,Graphic design ,networking, etc:"]
+      descBullets: ["I have learnt Ms office package,Operating System,Graphic design ,networking,programming through Vocational training  etc:"]
     },
     {
       schoolName: "Tangalle Girls School",
@@ -160,13 +160,15 @@ const educationInfo = {
       subHeader: "Advanced level",
       duration: "January 2017- March 2020",
       
-      descBullets: ["Logic,Media,Political"]
+      descBullets: ["I went to Tangalle girls college for studying Advanced level and I followed Logic,Media,Political as my Advanced level subjects.It helps to pass my advanced level exam with high marks and come through my university dream."]
     },
     {
       schoolName: "H/ Vijayaba National School",
       logo: require("./assets/images/vns2.png"),
       subHeader: "Primary to O/L",
       duration: "January 2004-January 2017",
+
+      descBullets: ["I went to Hungama vijayaba national  college since my primary to  ordinary level and This is my first school.It helps to pass my o/l with high marks."]
       
       
     }
