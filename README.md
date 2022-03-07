@@ -72,7 +72,7 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-git clone https://github.com/saadpasta/developerFolio.git
+git clone https://github.com/nipuni-udari/portfolio-nipuniUdari.git
 
 # Go into the repository
 cd developerFolio
@@ -154,18 +154,25 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  title: "Hi all I'm Nipuni udari",
+  subTitle: emoji("I'm all about combining visual design with product thinking to bring meaningful experiences alive who's passionate about creating digital experiences through problem-solving. I fell in love with coding, exploring, travelling, Photography,Painting,designing."),
+  resumeLink: "https://drive.google.com/file/d/1FOhnh09oLcLgfuooNvBC3L_rht5APRYk/view?usp=sharing"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/rw-nipuni",
+  linkedin: "https://www.linkedin.com/in/nipuni-udari-922062218/",
+  gmail: "96770@fhss.sjp.ac.lk",
+  instagram:"https://www.instagram.com/nipuni.udari/",
+  telegram:"@Udari_rajapaksha",
+  behance:"https://www.behance.net/nipuniudari1",
+  twitter:"https://twitter.com/NipuniUdari",
+  blogger:"https://www.blogger.com/profile/15777733763543233156",
+  
+  facebook: "https://www.facebook.com/nipuni.udari.92",
+  
+  stackoverflow: "https://stackoverflow.com/users/18332438/nipuni-udari",
 };
 
 
