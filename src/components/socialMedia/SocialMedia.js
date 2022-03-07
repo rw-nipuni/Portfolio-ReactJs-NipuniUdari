@@ -127,6 +127,33 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
+
+      
+
+      {socialMediaLinks.behance ? (
+                    <a
+                      href={socialMediaLinks.behance}
+                      className="icon-button behance"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fab fa-behance"></i>
+                      <span></span>
+                    </a>
+    ) : null}
+
+      {socialMediaLinks.blogger ? (
+                          <a
+                            href={socialMediaLinks.blogger}
+                            className="icon-button blogger"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            <i className="fab fa-blogger"></i>
+                            <span></span>
+                          </a>
+    ) : null}
+
     </div>
   );
 }
