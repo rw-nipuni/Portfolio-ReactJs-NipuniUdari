@@ -311,7 +311,7 @@ const bigProjects = {
     },{
       image: require("./assets/images/p4.png"),
       projectName: "School Management System",
-      projectDesc: "Main Purpose of School management system is to make the whole school Activities on System.It would record student information. It cannot be altered or modified by other users (students, registrar, & teachers) except for the administrator. It develops using Java.Backend developed using php myadmin database.",
+      projectDesc: "Main Purpose of School management system is to make the whole school Activities on System.It would record student information. It cannot be altered or modified by other users except for the administrator. It develops using Java.Backend developed using php myadmin database.",
       footerLink: [
         
         {
