@@ -208,13 +208,13 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Graphic Designer",
-      company: "Solid Graphic| Accountant.",
+      role: "Graphic Designer & Accountant",
+      company: "Solid Graphic",
       companylogo: require("./assets/images/solid.png"),
       date: "April 2019 – March 2020",
       
       desc: [
-        "As a right accountant I ensured that company books are balanced, company  tax obligations are covered, and that I was be able to make confident business decisions based on sound financial data.And as a graphic designer I created posters, websites, logos, brochures, magazines and many other materials to communicate ideas and information visually. "
+        " I ensured that company books are balanced, company  tax obligations are covered, and that I was be able to make confident business decisions based on sound financial data.And as a graphic designer I created posters, websites, logos, brochures, magazines and many other materials to communicate ideas and information visually. "
       ]
     },
     {
@@ -227,7 +227,7 @@ const workExperiences = {
     {
       role: "Graphic Designer",
       company: "IEEE Student Branch USJP",
-      companylogo: require("./assets/images/ii.png"),
+      companylogo: require("./assets/images/ieee.jpg"),
       date: "July 2021 – Present",
       desc: "Institute of Electrical and Electronic Engineers is the world’s largest association of technical professionals with more than 400,000 members representing over 150 countries around the world.I could gather wide range of disciplines, including information technology, information assurance, telecommunication, nanotechnology and many more.  "
     },
@@ -243,14 +243,14 @@ const workExperiences = {
       company: "Leo Club of District 306 C2 USJP",
       companylogo: require("./assets/images/leo1.jpg"),
       date: " February 2021 – Present",
-      desc: "Leo Club of District 306 C2 University of Sri Jayewardenepura sponsored by Lions Club of Colombo Chariot is established in the year 2019 so I could develop my leadership qualities by participating in social activities.And also I am giving my visual design support for charity."
+      desc: "Leo Club of District 306 C2 University of Sri Jayewardenepura sponsored by Lions Club of Colombo Chariot is established in the year 2019 .so I could develop my leadership qualities by participating in social activities.And also I am giving my visual design support for charity."
     },
     {
       role: "Graphic designer",
       company: "SEDS J'Pura",
       companylogo: require("./assets/images/ab.png"),
       date: " February 2021 – Present",
-      desc: "Students for the Exploration and Development of Space (SEDS) is a 501(c)3 non-profit that empowers young people to participate and make an impact in space exploration.As a web developer and graphic designer I could be able to participate in national projects as well as to attend conferences, publish their work, and develop their professional network, in order to help students, become more effective in their present and future careers in industry, academia, government, and education. "
+      desc: "(SEDS) is a non-profit that empowers young people to participate and make an impact in space exploration.As a web developer and graphic designer I participated in projects as well as to attend conferences, publish my works & become more effective in my present and future careers in industry, academia, government, and education. "
     }
   ]
 };
@@ -447,10 +447,10 @@ const blogSection = {
         "The emergence of globalization  in the first decade of the twenty-first century was itself a revolution in the short history of the New media, fostering the rise of social media and other interactive, crowd-based communication tools."
     },
     {
-      url: "https://nipuni-udari.blogspot.com/2022/02/how-new-media-changed-fundamental.html",
-      title: "How New Media Changed the Fundamental Nature of the Communication",
+      url: "https://nipuni-udari.blogspot.com/2022/03/how-communication-elements-operated-in.html",
+      title: "How communication elements operated in the communication process when spreading corona pandemic information via television.",
       description:
-        "The emergence of globalization  in the first decade of the twenty-first century was itself a revolution in the short history of the New media, fostering the rise of social media and other interactive, crowd-based communication tools."
+        "A novel coronavirus is a virus that causes the disease COVID-19 (SARS-coV-2, previously known as 2019-nCoV), which causes an acute respiratory illness has started in China in December 2019 and spread throughout the world. Due to outbreak of COVID-19 Disease more than half of the world is practicing lockdown, which made a deep impact on our daily life routine, unlike we used to practice before. But as we know that to lower the spread of virus we require social distancing.  These days massive effect of media is seen. According to a survey there is 87% of increase in social media usage during lockdown."
     }
   ],
   display: true // Set false to hide this section, defaults to true
