@@ -285,7 +285,7 @@ const bigProjects = {
     {
       image: require("./assets/images/j2.png"),
       projectName: "Hotel Website",
-      projectDesc: "I have designed Website for cinnman lodge hotel.It contains Facilities,Gallery,contacts,services etc:And Html,css,Js are used for it",
+      projectDesc: "I have designed Website for cinnoman lodge hotel.It contains Facilities,Gallery,contacts,services etc:And Html,css,Js are used for it",
       footerLink: [
         {
           name: "Visit Website",
@@ -439,6 +439,12 @@ const blogSection = {
       title: "Role of mass media in managing Covid-19 Pandemic",
       description:
         "COVID-19 is a global crisis that has spread throughout the world at a dangerously fast pace. Mass media plays a huge role in circulating information, influences the public behavior and can curtail the spread of disease. "
+    },
+    {
+      url: "https://nipuni-udari.blogspot.com/2022/02/how-new-media-changed-fundamental.html",
+      title: "How New Media Changed the Fundamental Nature of the Communication",
+      description:
+        "The emergence of globalization  in the first decade of the twenty-first century was itself a revolution in the short history of the New media, fostering the rise of social media and other interactive, crowd-based communication tools."
     },
     {
       url: "https://nipuni-udari.blogspot.com/2022/02/how-new-media-changed-fundamental.html",
